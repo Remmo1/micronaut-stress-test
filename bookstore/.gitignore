@@ -2,7 +2,15 @@ Thumbs.db
 .DS_Store
 .gradle
 build/
-target/
+target/classes
+target/generated-sources
+target/generated-test-sources
+target/maven-status
+target/test-classes
+target/maven-archiver
+target/surefire-reports
+target/bookstore-0.0.1-SNAPSHOT.jar
+target/bookstore-0.0.1-SNAPSHOT.jar.original
 out/
 .micronaut/
 .idea
