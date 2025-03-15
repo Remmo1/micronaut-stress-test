@@ -1,0 +1,19 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+a
+1validator/src/main/java/com/example/JwtToken.java,4\c\4c650519697dcd9b7515de33e2a9855cf87d390b
+[
++library/src/main/java/com/example/Book.java,6\f\6fbb57acb363521d4a4b30abc1852782c78456ac
+?
+library/pom.xml,b\8\b832e9e6aa69e04b36abe92d5f67292bdc0f32f1
+b
+2library/src/main/java/com/example/LocalClient.java,4\2\421f0038f8954dfcd216965e791d7aa4bafe4632
+c
+3validator/src/main/java/com/example/JwtService.java,3\7\37c926c979dd352cbd1318bd1fbd6f3fa63e0bb2
+e
+5library/src/main/java/com/example/BookController.java,8\4\84a8938d8b1259d9667996124c9627a81f70db1c
+f
+6validator/src/main/java/com/example/JwtController.java,f\5\f5d39b0135afe8bcc095ba2c6560eee224d70e2f
+b
+2library/src/main/java/com/example/BookService.java,4\d\4d1bf1a33810c3c8e91edf27dc54ead4ff31cc57

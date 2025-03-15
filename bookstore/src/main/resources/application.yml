@@ -1,0 +1,28 @@
+micronaut:
+  application:
+    name: bookstore
+  server:
+    port: 8080
+  http:
+    services:
+      validator:
+        url: "http://localhost:8081"
+        read-timeout: 1m
+      rating:
+        url: "http://localhost:8082"
+        read-timeout: 1m
+
+datasources:
+  default:
+    password: pass
+    dialect: H2
+    url: 'jdbc:h2:mem:mydb'
+    username: sa
+    driver-class-name: org.h2.Driver
+
+jpa:
+  default:
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: create-drop
